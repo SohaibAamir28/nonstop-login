@@ -7,7 +7,7 @@
   <br />
 
 ## SignIn
-  <img alt="Clerk SignIn Image" src="./public/SignIn.png">
+  <img alt="Clerk SignIn Image" src="./public/Signin.png">
   <br />
 
 ## Password
